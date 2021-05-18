@@ -1,0 +1,12 @@
+
+---------Java Command Line--------------
+STEP 1:
+C:\Users\Acer>set path=C:\jdk-12.0.2\bin
+
+STEP 2:
+C:\Users\Acer>set classpath=.;
+
+STEP 3:
+cd C:\Users\Acer\Desktop\D-CS\FOOP
+----------------------------------------
+
